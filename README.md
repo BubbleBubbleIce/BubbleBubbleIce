@@ -52,7 +52,7 @@
 
 <p>
   <a href="https://github.com/rookie-oops/rookie-oops">
-    <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=rookie-oops&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=BubbleBubbleIce&show_icons=true&hide_border=true" />
   </a>
 
 
@@ -77,7 +77,7 @@
 **🏆 Trophy: Github Profile Trophy**
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rookie-oops" alt="rookie-oops" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BubbleBubbleIce" alt="BubbleBubbleIce" /></a>
 </p>
 
 
