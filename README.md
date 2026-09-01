@@ -1,87 +1,84 @@
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/mustacheparrot.gif" width="30" height="30"/>
-</div>
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap');
 
+<p align="center">
+  <font face="Dancing Script, cursive" size="7" color="#7BA05B"><b>Hi 👋, I'm 抹茶波波冰</b></font><br>
+  <i>A passionate developer — 用代码泡一杯好茶 🍵</i>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BubbleBubbleIce&label=Profile%20Views&color=7BA05B&style=flat-square">
+  <img src="https://img.shields.io/badge/%F0%9F%8D%B5-matcha%20lover-7BA05B?style=flat-square">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%8B-boba%20enjoyer-B07D5B?style=flat-square">
+  <img src="https://img.shields.io/badge/GitHub-rookie--oops-8B5A2B?style=flat-square&logo=github&logoColor=white">
+</p>
 
-## Hi, I'm rookie-oops, a Developer 🚀 from China.
+---
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%">
 
+### 🧋 关于我
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rookie-oops)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](rookie-oops123@outlook.com)
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
+- 🔭 作品：**[skills](https://github.com/BubbleBubbleIce/skills)** — 个人 Agent 技能集（Cursor / Claude Code / Codex）
+- 🌱 学习中：**Rust · Go**
+- 👯 想找：**开源协作伙伴**
+- 💬 可聊：**React / Node.js / TypeScript**
 
-**🙆 Talking about Personal Stuffs:**
+      </td>
+      <td width="45%" align="center">
 
-
-<img width="55%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on [](https://github.com/BubbleBubbleIce/)
-- 🌱 I’m currently learning 3DV and AI-native development.
-- 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
-- 📫 How to reach me: ke-yang@whu.edu.cn
-
-**👨‍💻 Languages and Tools:** 
-
+### 🛠 手边工具
 
 <p>
-  <a href="https://github.com/rookie-oops/rookie-oops">
-    <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=BubbleBubbleIce&show_icons=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40">
+</p>
+
+*正在学的，也泡在杯里了*
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📦 正在做的
+
+<p align="center">
+  <a href="https://github.com/BubbleBubbleIce/skills">
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=BubbleBubbleIce&repo=skills&theme=transparent&border_color=7BA05B&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B" alt="skills">
   </a>
-
-
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Personal%20Agent%20Skills%20Collection-7BA05B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
 </p>
 
-**🏆 Trophy: Github Profile Trophy**
+---
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BubbleBubbleIce" alt="BubbleBubbleIce" /></a>
+### 📊 统计 & 徽章
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BubbleBubbleIce&show_icons=true&theme=transparent&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B&border_color=7BA05B&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BubbleBubbleIce&theme=transparent&hide_border=true&ring=7BA05B&fire=B07D5B" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BubbleBubbleIce&layout=compact&theme=transparent&title_color=7BA05B&text_color=8B5A2B&border_color=7BA05B&hide_border=true" width="49%">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BubbleBubbleIce&theme=flat&no-bg=true&no-frame=true&row=1&column=6" width="100%">
+</p>
 
-<hr>
+---
 
-
-
+<p align="center">
+  <font face="Dancing Script, cursive" size="5" color="#B07D5B"><b>Crafted with 🍵 &amp; ❤️ — one shot, one README.</b></font>
+</p>
