@@ -41,8 +41,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [](https://github.com/rookie-oops/)
-- 🌱 I’m currently learning SLAM and 3DV.
+- 👨🏽‍💻 I’m currently working on [](https://github.com/BubbleBubbleIce/)
+- 🌱 I’m currently learning 3DV and AI-native development.
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
 - 📫 How to reach me: ke-yang@whu.edu.cn
@@ -52,7 +52,7 @@
 
 <p>
   <a href="https://github.com/rookie-oops/rookie-oops">
-    <img width="55%" align="right" alt="Binwen Wu's github stats" src="https://github-readme-stats.vercel.app/api?username=rookie-oops&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=rookie-oops&show_icons=true&hide_border=true" />
   </a>
 
 
