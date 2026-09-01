@@ -2,7 +2,7 @@
 
 <p align="center">
   <font face="Dancing Script, cursive" size="7" color="#7BA05B"><b>Hi 👋, I'm 抹茶波波冰</b></font><br>
-  <i>A passionate developer — 用代码泡一杯好茶 🍵</i>
+  <i>A passionate developer from China</i>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 🧋 关于我
 
-- 🔭 作品：**[skills](https://github.com/BubbleBubbleIce/skills)** — 个人 Agent 技能集（Cursor / Claude Code / Codex）
+- 🔭 作品：**[skillsend](https://github.com/BubbleBubbleIce/skillsend)**（Go · Bubble Tea TUI，Agent 技能管理面板）· **[skills](https://github.com/BubbleBubbleIce/skills)**（Agent 技能集）
 - 🌱 学习中：**Rust · Go**
 - 👯 想找：**开源协作伙伴**
 - 💬 可聊：**React / Node.js / TypeScript**
@@ -50,17 +50,21 @@
 
 ---
 
-### 📦 正在做的
+### 📦 作品
 
 <p align="center">
+  <a href="https://github.com/BubbleBubbleIce/skillsend">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BubbleBubbleIce&repo=skillsend&theme=transparent&border_color=7BA05B&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B" alt="skillsend">
+  </a>
   <a href="https://github.com/BubbleBubbleIce/skills">
-    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=BubbleBubbleIce&repo=skills&theme=transparent&border_color=7BA05B&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B" alt="skills">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BubbleBubbleIce&repo=skills&theme=transparent&border_color=7BA05B&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B" alt="skills">
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Personal%20Agent%20Skills%20Collection-7BA05B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bubble%20Tea%20TUI-000000?style=for-the-badge&logo=terminal&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Agent%20Skills-7BA05B?style=for-the-badge">
 </p>
 
 ---
