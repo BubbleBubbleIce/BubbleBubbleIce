@@ -70,13 +70,16 @@
 ### 📊 统计 & 徽章
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BubbleBubbleIce&show_icons=true&theme=transparent&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B&border_color=7BA05B&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BubbleBubbleIce&theme=transparent&hide_border=true&ring=7BA05B&fire=B07D5B" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BubbleBubbleIce&layout=compact&theme=transparent&title_color=7BA05B&text_color=8B5A2B&border_color=7BA05B&hide_border=true" width="49%">
+  <img src="./assets/github-stats.svg" width="49%" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=BubbleBubbleIce&theme=transparent&hide_border=true&ring=7BA05B&fire=B07D5B" width="49%" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BubbleBubbleIce&theme=flat&no-bg=true&no-frame=true&row=1&column=6" width="100%">
+  <img src="./assets/top-langs.svg" width="49%" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="./assets/github-trophy.svg" width="100%" alt="GitHub trophies">
 </p>
 
 ---
