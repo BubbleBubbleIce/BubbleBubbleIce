@@ -52,10 +52,10 @@
 
 <p align="center">
   <a href="https://github.com/BubbleBubbleIce/skillsend">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BubbleBubbleIce&repo=skillsend&theme=transparent&border_color=7BA05B&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B" alt="skillsend">
+    <img align="center" width="45%" src="./assets/skillsend-card.svg" alt="skillsend">
   </a>
   <a href="https://github.com/BubbleBubbleIce/skills">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BubbleBubbleIce&repo=skills&theme=transparent&border_color=7BA05B&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B" alt="skills">
+    <img align="center" width="45%" src="./assets/skills-card.svg" alt="skills">
   </a>
 </p>
 <p align="center">
