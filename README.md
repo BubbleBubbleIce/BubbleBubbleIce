@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap');
-
 <p align="center">
   <font face="Dancing Script, cursive" size="7" color="#7BA05B"><b>Hi 👋, I'm 抹茶波波冰</b></font><br>
   <i>A passionate developer from China</i>
@@ -15,9 +13,9 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="55%">
+<table>
+<tr>
+<td width="55%">
 
 ### 🧋 关于我
 
@@ -26,8 +24,8 @@
 - 👯 想找：**开源协作伙伴**
 - 💬 可聊：**React / Node.js / TypeScript**
 
-      </td>
-      <td width="45%" align="center">
+</td>
+<td width="45%" align="center">
 
 ### 🛠 手边工具
 
@@ -43,9 +41,9 @@
 
 *正在学的，也泡在杯里了*
 
-      </td>
-    </tr>
-  </table>
+</td>
+</tr>
+</table>
 </div>
 
 ---
