@@ -21,8 +21,8 @@
 
 - 🔭 作品：**[skillsend](https://github.com/BubbleBubbleIce/skillsend)**（Go · Bubble Tea TUI，Agent 技能管理面板）· **[skills](https://github.com/BubbleBubbleIce/skills)**（Agent 技能集）
 - 🌱 学习中：**Rust · Go**
-- 👯 想找：**开源协作伙伴**
-- 💬 可聊：**React / Node.js / TypeScript**
+- ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
+- 💬 可聊：**React / Node.js / TypeScript / Pytorch / LLM**
 
 </td>
 <td width="45%" align="center">
