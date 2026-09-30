@@ -1,19 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
   <title id="title">skills</title>
-  <desc id="desc">Personal Agent Skills collection for Cursor, Claude Code, and Codex</desc>
-  <rect width="640" height="240" rx="16" fill="#ffffff" stroke="#eadbce" stroke-width="2"/>
-  <rect width="8" height="240" rx="4" fill="#b07d5b"/>
-  <circle cx="48" cy="48" r="22" fill="#b07d5b"/>
-  <text x="48" y="56" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="700">✦</text>
-  <text x="84" y="56" fill="#202932" font-family="Arial, sans-serif" font-size="28" font-weight="700">skills</text>
-  <text x="84" y="84" fill="#b07d5b" font-family="Arial, sans-serif" font-size="14" font-weight="700">PYTHON  ·  AGENT SKILLS</text>
-  <line x1="32" y1="110" x2="608" y2="110" stroke="#f0e5dc" stroke-width="2"/>
-  <text x="32" y="145" fill="#3c4650" font-family="Arial, sans-serif" font-size="18">Personal Agent Skills collection</text>
-  <text x="32" y="172" fill="#6b7680" font-family="Arial, sans-serif" font-size="15">For Cursor, Claude Code, and Codex</text>
-  <rect x="32" y="193" width="82" height="28" rx="14" fill="#4b8bbe"/>
-  <text x="73" y="212" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">Cursor</text>
-  <rect x="124" y="193" width="112" height="28" rx="14" fill="#202932"/>
-  <text x="180" y="212" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">Claude Code</text>
-  <rect x="246" y="193" width="82" height="28" rx="14" fill="#7ba05b"/>
-  <text x="287" y="212" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">Codex</text>
+  <desc id="desc">Personal Agent Skills collection. For Cursor, Claude Code, and Codex.</desc>
+  <rect x="1" y="1" width="638" height="238" rx="12" fill="#262624" stroke="#3A3834" stroke-width="2"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="32" y="39" fill="#A39E93" font-size="13">02 / AGENT SKILLS</text>
+    <text x="32" y="88" fill="#D97757" font-size="30" font-weight="700">&gt; skills<tspan fill="#A39E93">_</tspan></text>
+    <text x="594" y="85" text-anchor="end" fill="#D97757" font-size="24">↗</text>
+    <line x1="32" y1="111" x2="608" y2="111" stroke="#3A3834"/>
+    <text x="32" y="149" fill="#F0EEE6" font-size="18">Personal Agent Skills collection</text>
+    <text x="32" y="177" fill="#A39E93" font-size="15">For Cursor, Claude Code, and Codex</text>
+    <text x="32" y="215" fill="#D97757" font-size="13">PYTHON / AGENT SKILLS</text>
+  </g>
 </svg>

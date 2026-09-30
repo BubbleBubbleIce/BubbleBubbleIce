@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=transparent&title_color=7BA05B&icon_color=B07D5B&text_color=8B5A2B&border_color=7BA05B&hide_border=true"
+          options: "username=${{ github.repository_owner }}&card_width=467&show_icons=true&bg_color=262624&title_color=D97757&icon_color=D97757&text_color=F0EEE6&border_color=3A3834&hide_border=true"
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&theme=transparent&title_color=7BA05B&text_color=8B5A2B&border_color=7BA05B&hide_border=true"
+          options: "username=${{ github.repository_owner }}&layout=compact&card_width=300&langs_count=6&bg_color=262624&title_color=D97757&text_color=F0EEE6&border_color=3A3834&hide_border=true"
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -46,7 +46,7 @@ jobs:
           username: ${{ github.repository_owner }}
           output_path: assets/github-trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: flat
+          theme: gruvbox
 
       - name: Commit generated cards
         run: |
